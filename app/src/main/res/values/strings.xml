@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComponentBasedApp</string>
+    
+    <string name="jump_scheme">common</string>
+</resources>
