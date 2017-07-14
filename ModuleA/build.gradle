@@ -1,4 +1,3 @@
-println IsBuildModule.toBoolean()
 if (IsBuildModule.toBoolean()) {
     apply plugin: 'com.android.application'
 } else {

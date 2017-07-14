@@ -18,6 +18,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void jump(View v){
         Toast.makeText(this, "jump", Toast.LENGTH_SHORT).show();
-        Routers.open(MainActivity.this, "common://AAA");
+        Routers.open(MainActivity.this, "common://A");
     }
 }
